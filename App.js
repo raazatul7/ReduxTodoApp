@@ -19,11 +19,6 @@ class App extends Component {
       <Provider store={store}>
         <TodoApp />
       </Provider>
-      // <SafeAreaView>
-      // <TouchableOpacity onPress={()=>this.setState({val:1})}>
-      //   <Text>Hello</Text>
-      // </TouchableOpacity>
-      // </SafeAreaView>
     );
   }
 }

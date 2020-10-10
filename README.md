@@ -1,2 +1,3 @@
 # ReduxTodoApp
-It's todo app of react-native using redux.
+It's a simple TODO app of react-native using redux.
+
